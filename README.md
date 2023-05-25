@@ -13,28 +13,7 @@
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://rivermountain.tistory.com/)
 </div>
 
-<h2 align="left">:arrow_forward: 경력</h2>
-
-경기게임마이스터고 재학
-
-<h2 align="left">:arrow_forward: 수상경력</h2>
-
-| 🏫 2022 |
-| ------ |
-| 1학년 1학기 : 교과우수상(엔진), 개인프로젝트 1등, 하계 게임잼 대상, 충북 대한민국 청소년 게임잼 대상 |
-| 1학년 2학기 : 교과우수상(엔진, C#), 2학기 팀프로젝트 3등 |
-
-| 🏫 2023 |
-| ----- |
-| 2학년 1학기 : |
-| 2학년 2학기 : |
-
-| 🏫 2024 |
-| ----- |
-| 3학년 1학기 : |
-| 3학년 2학기 : |
-
-<h2 align="left">:computer: 깃허브 정보</h2>
+### :computer: My Github Stat
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=ksan09&theme=calm)](https://github.com/ksan09)
 
